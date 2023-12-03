@@ -1,0 +1,10 @@
+__pycache__/
+old1/
+old2/
+old3/
+myapp.log
+part3.ipynb
+process01.py
+flux_instantane.json.bz2
+json_util.py
+*.sqlite
